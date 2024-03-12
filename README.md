@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Areebakhan8
+- 👋 Hi, I’m Areeba-khan
 - 👀 I’m interested in programming languages 
 - 🌱 I’m currently learning typescript,javascript,css & Html
 
